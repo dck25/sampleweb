@@ -1,0 +1,4 @@
+{
+	"fileUris": ["https://raw.githubusercontent.com/dck25/sampleweb/master/install_web.sh?token=ABGLAXUG2YYDGH3AEJWATUS7F4DAA"],
+	"commandToExecute" : "./install_web.sh"
+}
